@@ -13,4 +13,4 @@ function add(a,b){
 }
 // console.log(total);
 
-add(5,7)
+add(5,3)
